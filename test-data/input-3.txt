@@ -1,0 +1,12 @@
+# Command validation, and torpedo firing
+
+UNKNOWN
+GT4500,not-a-number,0,1,0
+TORPEDO,SINGLE
+GT4500,1,0
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
+TORPEDO
+TORPEDO,INVALID
+EXIT
